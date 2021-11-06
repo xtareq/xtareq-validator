@@ -1,6 +1,6 @@
 import { Validator } from "./Validator";
 
-export const validate = (rules:any,fields:any)=>{
+export const Validate = (rules:any,fields:any)=>{
     let errors:any = []
     const validator = new Validator(rules,fields)
     errors = validator.validate();
@@ -8,3 +8,4 @@ export const validate = (rules:any,fields:any)=>{
 
     return errors
 }
+

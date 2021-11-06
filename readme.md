@@ -3,4 +3,4 @@ Express form validation for api
 
 # Installation
 
-`npm i ex-validator --save # yarn add ex-validator
+`npm i @xtareq/validator --save # yarn add @xtareq/validator

@@ -1,8 +1,8 @@
 {
-  "name": "xvalidator",
-  "version": "1.1.0",
+  "name": "@xtareq/validator",
+  "version": "1.1.4",
   "description": "Form validation for express typescript",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
@@ -10,13 +10,13 @@
     "build": "tsc -p .",
     "build:watch": "tsc -w"
   },
-  "repository": "https://github.com/xtareq/ex-validator",
+  "repository": "https://github.com/xtareq/xtareq-validator",
   "author": "Tareq Hossain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xtareq/ex-validator/issues"
+    "url": "https://github.com/xtareq/xtareq-validator/issues"
   },
-  "homepage": "https://github.com/xtareq/ex-validator#readme",
+  "homepage": "https://github.com/xtareq/xtareq-validator#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
   }

@@ -1,2 +1,2 @@
-export declare const validate: (rules: any, fields: any) => any;
+export declare const Validate: (rules: any, fields: any) => any;
 //# sourceMappingURL=index.d.ts.map
