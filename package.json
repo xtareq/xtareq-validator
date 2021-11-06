@@ -1,0 +1,12 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "description": "Form validation for express typescript",
+  "main": "index.js",
+  "repository": "https://github.com/xtareq/ex-validator",
+  "author": "Tareq Hossain",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
