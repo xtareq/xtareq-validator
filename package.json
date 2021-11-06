@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "Form validation for express typescript",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "build:watch": "tsc -w"
+  },
   "repository": "https://github.com/xtareq/ex-validator",
   "author": "Tareq Hossain",
-  "license": "MIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtareq/ex-validator/issues"
+  },
+  "homepage": "https://github.com/xtareq/ex-validator#readme",
   "devDependencies": {
     "typescript": "^4.4.4"
   }
