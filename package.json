@@ -1,5 +1,5 @@
 {
-  "name": "validator",
+  "name": "xvalidator",
   "version": "1.1.0",
   "description": "Form validation for express typescript",
   "main": "index.js",

@@ -1,4 +1,4 @@
-# Ex Validator
+# XValidator
 Express form validation for api
 
 # Installation
